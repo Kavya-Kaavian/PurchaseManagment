@@ -1,0 +1,5 @@
+{
+  "ProjectOverviewURL": "https://911d1d4dtrial.launchpad.cfapps.us10.hana.ondemand.com/lcapPurchaseManagment.PurchaseManagmentLaunchpad-1.0.0/",
+  "DeployedUTCTime": "2024-12-31T07:32:04.778Z",
+  "ApplicationLogURL": "https://logs.cf.us10-001.hana.ondemand.com/app/dashboards#/view/Overview?_g=(filters:!((query:(match_phrase:(component_name:PurchaseManagment-srv)))))"
+}

@@ -1,0 +1,2 @@
+sap.ui.define(["sap/fe/test/ListReport"],function(e){"use strict";var t={actions:{},assertions:{}};return new e({appId:"purchasemanagment.purchasemanagement",componentId:"A_PurchaseOrderList",contextPath:"/A_PurchaseOrder"},t)});
+//# sourceMappingURL=A_PurchaseOrderList.js.map
